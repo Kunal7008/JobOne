@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 public class GetMyCode {
 	@Test
 	public void test_01() {
+		//launching the browser
 		System.setProperty("webdriver.chrome.driver", "F:\\downloads\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
 		driver.navigate().to("https://www.flipkart.com/");
