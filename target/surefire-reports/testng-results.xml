@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15047" started-at="2019-05-10T05:37:10Z" finished-at="2019-05-10T05:37:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15047" started-at="2019-05-10T05:37:10Z" finished-at="2019-05-10T05:37:25Z">
+      <class name="com.selenium.project.GetMyCode">
+        <test-method status="PASS" signature="test_01()[pri:0, instance:com.selenium.project.GetMyCode@1324409e]" name="test_01" duration-ms="14997" started-at="2019-05-10T05:37:10Z" finished-at="2019-05-10T05:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01 -->
+      </class> <!-- com.selenium.project.GetMyCode -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
