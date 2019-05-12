@@ -10,7 +10,7 @@ public class GetMyCode {
 		//launching the browser
 		System.setProperty("webdriver.chrome.driver", "F:\\downloads\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
-		driver.navigate().to("https://www.flipkart.com/");
+		driver.navigate().to("https://amazon.in");
 		System.out.println(driver.getTitle());
 	}
 }
